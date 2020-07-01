@@ -17,7 +17,8 @@ char * komMenu[]={"\n 0\tHilfetext\n",
                   " 4\t4.Tim Schneider\n",
 		  " 5\t5.Alexander Tröger\n",
 		  " 6\t6.Tim Weber\n",
-                  " 7\a\tEnde\n"};
+      " 7\t7.Isabelle Mueller\n",
+                  " 8\a\tEnde\n"};
 int steuerMenu(void);
 
 int main(int argc, char* argv[])
